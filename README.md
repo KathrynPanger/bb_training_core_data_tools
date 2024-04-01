@@ -22,7 +22,7 @@
 </ul>
 
 
-<h3>The Files</h3>
+<h3>The Notebooks</h3>
 <p><b></bb>clean_csv.ipynb</b></p>
 <p>Contains functions for:</p>
 <ol>
