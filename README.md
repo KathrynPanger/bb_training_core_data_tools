@@ -1,15 +1,23 @@
 <h1>Core Data Tools: Training Notebooks for Basic Data Operations</h1>
 
 <h2>Directory Structure</h2>
-* Base
-  * code
-    * clean_csv.ipynb
-    * clean_csv_extended_version.ipynb
-  * data
-    * raw
-      * (contains raw csv files to load into notebooks)
-    * processed
-      * (contains finished processed csv files, after data cleaning is complete)
+<ul>
+<li>Base</li>
+  <ul>
+    <li>code</li>
+      <ul>
+        <li>clean_csv.ipynb</li>
+        <li>clean_csv_extended_version.ipynb</li>
+      </ul>
+  <li>data</li>
+    <ul>
+      <li>raw</li>
+      <li>(contains raw csv files to load into notebooks)</li>
+    </ul>
+      <li>processed</li>
+      <li>(contains finished processed csv files, after data cleaning is complete)</li>
+</ul>
+</ul>
 
 <h3>The Files</h3>
 <p><b></bb>clean_csv.ipynb</b></p>
