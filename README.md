@@ -12,10 +12,14 @@
   <li>data</li>
     <ul>
       <li>raw</li>
-      <li>(contains raw csv files to load into notebooks)</li>
+        <ul>
+            <li>(contains raw csv files to load into notebooks)</li>
+        </ul>
     </ul>
       <li>processed</li>
-      <li>(contains finished processed csv files, after data cleaning is complete)</li>
+        <ul>
+          <li>(contains finished processed csv files, after data cleaning is complete)</li>
+        </ul>
 </ul>
 </ul>
 
