@@ -3,7 +3,7 @@
 <h2>Directory Structure</h2>
 
 ----+base\
-    |\
+    |\
     +---+ code \
     |   +---- clean_csv.ipynb\
     |   +---- clean_csv_extended_version.ipynb\
