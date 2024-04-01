@@ -12,7 +12,7 @@
         |   \
         +----processed\
         |\
-        +-----raw\
+        +-----raw
 
 <h3>The Files</h3>
 <p><b></bb>clean_csv.ipynb</b></p>
