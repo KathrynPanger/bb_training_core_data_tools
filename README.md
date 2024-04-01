@@ -2,17 +2,17 @@
 
 <h2>Directory Structure</h2>
 
-----+base
-    |
-    +---+ code 
-    |   +---- clean_csv.ipynb
-    |   +---- clean_csv_extended_version.ipynb
-    |
-    +---+ data
-        |   
-        +----processed
-        |
-        +-----raw
+<p>----+base</p>
+<p>    |</p>
+<p>    +---+ code </p>
+<p>    |   +---- clean_csv.ipynb</p>
+<p>    |   +---- clean_csv_extended_version.ipynb</p>
+<p>    |</p>
+<p>    +---+ data</p>
+<p>        |   </p>
+<p>        +----processed</p>
+<p>        |</p>
+<p>        +-----raw</p>
 
 <h3>The Files</h3>
 <p><b></bb>clean_csv.ipynb</b></p>
