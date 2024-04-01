@@ -15,13 +15,12 @@
         <ul>
             <li>(contains raw csv files to load into notebooks)</li>
         </ul>
-    </ul>
       <li>processed</li>
         <ul>
           <li>(contains finished processed csv files, after data cleaning is complete)</li>
         </ul>
 </ul>
-</ul>
+
 
 <h3>The Files</h3>
 <p><b></bb>clean_csv.ipynb</b></p>
