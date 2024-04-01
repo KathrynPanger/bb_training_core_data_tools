@@ -1,18 +1,13 @@
 <h1>Core Data Tools: Training Notebooks for Basic Data Operations</h1>
 
 <h2>Directory Structure</h2>
+<ul>
+<li>base_folder</li>
+    <li>code</li>
+    <li>data</li>
 
-----+base\
-    |\
-    +---+ code \
-    |   +---- clean_csv.ipynb\
-    |   +---- clean_csv_extended_version.ipynb\
-    |\
-    +---+ data\
-        |   \
-        +----processed\
-        |\
-        +-----raw
+
+</ul>
 
 <h3>The Files</h3>
 <p><b></bb>clean_csv.ipynb</b></p>
